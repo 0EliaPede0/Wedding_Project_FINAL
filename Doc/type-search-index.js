@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"Main","l":"Controlli"},{"p":"Main","l":"Main"},{"p":"Main","l":"Menu"},{"p":"Main","l":"Nodo"},{"p":"Test","l":"NodoTest"},{"p":"Main","l":"Regali"},{"p":"Main","l":"RegaliException"},{"p":"Test","l":"RegaliTest"},{"p":"Main","l":"Regalo"},{"p":"Test","l":"RegaloTest"},{"p":"Main","l":"SaveRestore"},{"p":"Main","l":"VisualizzaRiordinato"}]
